@@ -62,8 +62,8 @@ and observed use — plus the pre-AI computerization baseline.
 | `dv_rating_alpha` | Availability — Eloundou et al. (2024) | Same rubric, α variant: LLM **alone**, no complementary software. Used in the SI. |
 | `dv_rating_beta` | Availability — Eloundou et al. (2024) | β variant of the same rubric. Provided for completeness; not used in the main text. |
 | `human_rating_alpha` / `human_rating_beta` / `human_rating_gamma` | Availability — Eloundou et al. (2024) | Human-annotated (rather than model-rated) counterparts of the α/β/γ exposure scores. Provided for completeness. |
-| `rl_feasibility` | Capability — Tomei & Klein Teeselink (2026) | RL Feasibility Index: suitability of an occupation's tasks for reinforcement-learning-based automation, scored with Gemini 2.5 Flash. Note the large scale relative to the others. |
-| `claude_usage` | Observed use — Massenkoff & McCrory (2026) | Occupation-level intensity of actual Claude usage. Concentrated near zero with a long right tail. |
+| `rl_feasibility` | Capability — Tomei & Klein Teeselink (2026) | RL Feasibility Index: suitability of an occupation's tasks for reinforcement-learning-based automation, scored with Gemini 2.5 Flash.|
+| `claude_usage` | Observed use — Massenkoff & McCrory (2026) | Occupation-level intensity of actual Claude usage. |
 
 ### Labor-market covariates (BLS OEWS)
 

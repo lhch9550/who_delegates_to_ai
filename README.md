@@ -4,11 +4,6 @@ Replication material for *Who Delegates to AI? Evidence from Agent Configuration
 GitHub*. The repository contains one occupation-level dataset and a single notebook that
 reproduces the tables and figures.
 
-- `automation_data.csv` — the merged, occupation-level dataset (774 rows, one per SOC
-  occupation).
-- `automation.ipynb` — loads the dataset and produces the descriptive table, the
-  regressions, and the figures.
-
 The core measure is the **Agentic Adoption Index (AAI)**: for each occupation it records
 how closely the occupation's O\*NET task statements match the descriptions of
 practitioner-built agent skill files shared on public GitHub, aggregated with O\*NET task
@@ -19,7 +14,6 @@ by agentic skills that early-adopting practitioners have already built and publi
 
 ```bash
 pip install pandas numpy matplotlib seaborn adjustText scipy statsmodels plotly
-jupyter notebook automation.ipynb
 ```
 
 ## Dataset: `automation_data.csv`

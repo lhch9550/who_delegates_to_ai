@@ -83,7 +83,7 @@ and observed use — plus the pre-AI computerization baseline.
 | `median_wage_2025` | Annual median wage, 2025 (USD). Log of this is the wage regressor. |
 | `employment_2010` | Total employment, 2010 (persons). Used in the employment-distribution figure. |
 | `median_wage_2010` | Annual median wage, 2010 (USD). |
-| `education_level` | Typical entry-level education (BLS categories, e.g. "Bachelor's degree"). Collapsed in-notebook to three tiers — high school or below / bachelor's / master's or above. |
+| `education_level` | Typical entry-level education (BLS categories, e.g. "Bachelor's degree"). The notebook groups these into three tiers: high school or below, bachelor's, and master's or above. |
 
 ### O\*NET ability summary
 

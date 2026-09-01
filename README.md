@@ -48,7 +48,7 @@ merged_df = pd.read_csv('automation_data.csv')
 | `aai` | **Agentic Adoption Index.** Importance-weighted mean semantic similarity between the occupation's O\*NET tasks and ~888k GitHub agent skill descriptions, embedded with Sentence-BERT (`all-MiniLM-L6-v2`). Main measure throughout. |
 | `aai_manus` | Alternative AAI computed with Manus agent skill specifications, as a robustness variant. Not used in the main tables; see Supplementary Section 6 for details.|
 
-### Comparison exposure measures (external sources)
+### Comparison exposure measures
 
 These situate the AAI against the three "layers" of AI exposure — capability, availability,
 and observed use — plus the pre-AI computerization baseline.

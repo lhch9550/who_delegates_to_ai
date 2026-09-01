@@ -13,9 +13,7 @@ The core measure is the **Agentic Adoption Index (AAI)**: for each occupation it
 how closely the occupation's O\*NET task statements match the descriptions of
 practitioner-built agent skill files shared on public GitHub, aggregated with O\*NET task
 importance weights. Higher AAI means an occupation's tasks are, on average, well covered
-by agentic skills that early-adopting practitioners have already built and published. The
-index is meant for comparison **across** occupations, not for interpretation on an
-absolute scale.
+by agentic skills that early-adopting practitioners have already built and published. 
 
 ## Getting started
 

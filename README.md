@@ -33,11 +33,6 @@ merged_df = pd.read_csv('automation_data.csv')
 
 ## Dataset: `automation_data.csv`
 
-One row per occupation, keyed on `soc_code` (774 occupations). Columns fall into five
-groups: identifiers, the AAI, the comparison exposure measures, labor-market covariates,
-and an O\*NET ability summary. Coverage varies across columns because each source maps to
-occupations slightly differently, so some columns have missing values.
-
 ### Identifiers
 
 | Column | Description |

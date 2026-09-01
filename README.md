@@ -1,15 +1,13 @@
 # Replication Data and Code
 
-- Replication material for *Who Delegates to AI? Evidence from Agent Configurations in
+Replication material for *Who Delegates to AI? Evidence from Agent Configurations in
 GitHub*. The repository contains one occupation-level dataset and a single notebook that
 reproduces the tables and figures.
-
-- The core measure is the **Agentic Adoption Index (AAI)**: for each occupation it records
+The core measure is the **Agentic Adoption Index (AAI)**: for each occupation it records
 how closely the occupation's O\*NET task statements match the descriptions of
 practitioner-built agent skill files shared on public GitHub, aggregated with O\*NET task
 importance weights.
-
-- Higher AAI means an occupation's tasks are, on average, well covered
+Higher AAI means an occupation's tasks are, on average, well covered
 by agentic skills that early-adopting practitioners have already built and published. 
 
 ## Getting started

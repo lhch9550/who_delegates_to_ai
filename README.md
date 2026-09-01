@@ -91,17 +91,6 @@ and observed use — plus the pre-AI computerization baseline.
 |---|---|
 | `cognitive_ability_share` | Share of an occupation's total O\*NET ability importance that comes from cognitive (vs. physical/psychomotor) abilities. Used to validate that high-AAI occupations are cognitively oriented. |
 
-## Variables the notebook derives at runtime
-
-These are **not** in the CSV; the notebook builds them from the columns above:
-
-- `log_wage` — `log(median_wage_2025)`.
-- `edu3` — `education_level` collapsed to `High school or below` / `Bachelor's degree` /
-  `Master's or above`.
-- `employment_2025_n`, `employment_2010_n` — employment rescaled to persons for the
-  regression weights and figures.
-- `major_group` — 2-digit SOC major-group label, for the employment-distribution figure.
-
 ## What the notebook produces
 
 1. **Descriptive statistics** for the AAI and the three comparison measures.

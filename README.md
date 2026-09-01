@@ -31,11 +31,6 @@ Change that one line to point at the shipped file:
 merged_df = pd.read_csv('automation_data.csv')
 ```
 
-The U.S. state-level supplementary section additionally reads a BLS state employment file
-(`state_M2025_dl.xlsx`) that is not redistributed here; download it from the BLS OEWS site
-if you want to reproduce that section. Everything else runs from `automation_data.csv`
-alone.
-
 ## Dataset: `automation_data.csv`
 
 One row per occupation, keyed on `soc_code` (774 occupations). Columns fall into five

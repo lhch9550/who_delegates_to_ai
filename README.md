@@ -95,9 +95,9 @@ and observed use — plus the pre-AI computerization baseline.
    specifications with the alternative exposure measures.
 6. **U.S. state-level supplement** (requires the external BLS state file noted above).
 
-Regressions are weighted by 2025 employment, so estimates describe patterns across the
-workforce rather than across job titles. Sample sizes differ across models because each
-model drops rows missing any of its own variables.
+- Regressions are weighted by 2025 employment, so estimates describe patterns across the
+workforce rather than across job titles.
+- Sample sizes differ across models because each model drops rows missing any of its own variables.
 
 ## Sources
 

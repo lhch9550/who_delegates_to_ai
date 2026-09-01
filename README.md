@@ -46,7 +46,7 @@ merged_df = pd.read_csv('automation_data.csv')
 | Column | Description |
 |---|---|
 | `aai` | **Agentic Adoption Index.** Importance-weighted mean semantic similarity between the occupation's O\*NET tasks and ~888k GitHub agent skill descriptions, embedded with Sentence-BERT (`all-MiniLM-L6-v2`). Main measure throughout. |
-| `aai_manus` | Alternative AAI computed on a different skill corpus/weighting (robustness variant). Not used in the main tables; provided for comparison. |
+| `aai_manus` | Alternative AAI computed with Manus agent skill specifications, as a robustness variant. Not used in the main tables; see Supplementary Section 6 for details.|
 
 ### Comparison exposure measures (external sources)
 

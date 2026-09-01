@@ -111,13 +111,13 @@ model drops rows missing any of its own variables.
 
 ## Sources
 
-- O\*NET 30.2 — U.S. Department of Labor, National Center for O\*NET Development (2025).
-- GitSkills agent skill files — Destefanis et al. (2026).
-- Frey, C. B., & Osborne, M. A. (2017). *The future of employment.*
-- Eloundou, T., Manning, S., Mishkin, P., & Rock, D. (2024). *GPTs are GPTs.* Science.
-- Tomei, P. M., & Klein Teeselink, B. (2026). *What jobs can AI learn?*
-- Massenkoff, M., & McCrory, P. (2026). *Labor market impacts of AI.*
-- Bureau of Labor Statistics — Occupational Employment and Wage Statistics (2010, 2025).
+- National Center for O\*NET Development. *O\*NET 30.2 database*, 2025. https://www.onetcenter.org
+- Destefanis, G., Graziotin, D., Vaccargiu, M., & Ortu, M. (2026). *GitSkills: A dataset of agent skills on GitHub.* arXiv:2608.10906. https://arxiv.org/abs/2608.10906
+- Frey, C. B., & Osborne, M. A. (2017). The future of employment: How susceptible are jobs to computerisation? *Technological Forecasting and Social Change*, 114, 254–280.
+- Eloundou, T., Manning, S., Mishkin, P., & Rock, D. (2024). GPTs are GPTs: Labor market impact potential of LLMs. *Science*, 384(6702), 1306–1308. doi:10.1126/science.adj0998
+- Tomei, P. M., & Klein Teeselink, B. (2026). *What jobs can AI learn? Measuring exposure by reinforcement learning.* arXiv:2605.02598.
+- Massenkoff, M., & McCrory, P. (2026). *Labor market impacts of AI: A new measure and early evidence.* https://www.anthropic.com/research/labor-market-impacts
+- Bureau of Labor Statistics. *Occupational Employment and Wage Statistics (OEWS)*, May 2010 and May 2025. https://www.bls.gov/oes/
 
 Each external exposure measure is redistributed here only as merged into the
 occupation-level table; refer to the original sources for full documentation and terms of

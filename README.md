@@ -60,9 +60,9 @@ and observed use — plus the pre-AI computerization baseline.
 
 | Column | Description |
 |---|---|
-| `employment_2025` | Total employment, 2025 (persons). |
+| `employment_2025` | Total employment, 2025. |
 | `median_wage_2025` | Annual median wage, 2025 (USD). |
-| `employment_2010` | Total employment, 2010 (persons).  |
+| `employment_2010` | Total employment, 2010.  |
 | `median_wage_2010` | Annual median wage, 2010 (USD). |
 | `education_level` | Typical entry-level education (BLS categories, e.g. "Bachelor's degree"). The notebook groups these into three tiers: high school or below, bachelor's, and master's or above. |
 

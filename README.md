@@ -24,13 +24,6 @@ pip install pandas numpy matplotlib seaborn adjustText scipy statsmodels plotly
 jupyter notebook automation.ipynb
 ```
 
-The notebook currently reads the dataset from an absolute path in the first data cell.
-Change that one line to point at the shipped file:
-
-```python
-merged_df = pd.read_csv('automation_data.csv')
-```
-
 ## Dataset: `automation_data.csv`
 
 ### Identifiers

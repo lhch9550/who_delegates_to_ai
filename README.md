@@ -99,7 +99,7 @@ and observed use — plus the pre-AI computerization baseline.
 workforce rather than across job titles.
 - Sample sizes differ across models because each model drops rows missing any of its own variables.
 
-## Sources
+## Data Source
 
 - National Center for O\*NET Development. *O\*NET 30.2 database*, 2025. https://www.onetcenter.org
 - Destefanis, G., Graziotin, D., Vaccargiu, M., & Ortu, M. (2026). *GitSkills: A dataset of agent skills on GitHub.* arXiv:2608.10906. https://arxiv.org/abs/2608.10906

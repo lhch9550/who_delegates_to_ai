@@ -37,7 +37,7 @@ merged_df = pd.read_csv('automation_data.csv')
 
 | Column | Description |
 |---|---|
-| `soc_code` | Base O\*NET-SOC occupation code (e.g. `11-1011`). Merge key; unique per row. |
+| `soc_code` | Base O\*NET-SOC occupation code (e.g. `11-1011`). |
 | `title` | Occupation title, title case (from the AAI/O\*NET source). |
 | `occupation` | Occupation name, sentence case (from the Frey–Osborne source where available, otherwise filled from `title`). Used for figure labels. |
 

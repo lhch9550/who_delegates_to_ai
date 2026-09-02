@@ -1,4 +1,4 @@
-# Replication Data and Code
+# Who Delegates to AI - Replication Data and Code
 
 Replication material for *Who Delegates to AI? Evidence from Agent Configurations in
 GitHub*. The repository contains one occupation-level dataset and a single notebook that
